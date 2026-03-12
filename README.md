@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Angelica Pagan
+FIU computer science major
 <!--
 **Astrea-09/Astrea-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
